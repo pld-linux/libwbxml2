@@ -2,7 +2,7 @@ Summary:	Library and tools to parse, encode and handle WBXML documents
 Name:		libwbxml2
 Version:	0.9.2
 Release:	0.1
-License:	LGPL
+License:	GPL v2
 Group:		Libraries
 Source0:	http://dl.sourceforge.net/synce/wbxml2-%{version}+svn49synce.tar.gz
 # Source0-md5:	07f659f41d529d9b89da4a86db1e0ee8
