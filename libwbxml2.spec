@@ -3,7 +3,7 @@
 # - kill unecessary -lnsl etc.
 # - lib is linked with -lexpat, but .pc specifies libxml2
 Summary:	Library and tools to parse, encode and handle WBXML documents
-Summary(pl.UTF-8:	Biblioteka i narzędzia do analizy, kodowania i obsługi dokumentów WBXML
+Summary(pl.UTF-8):	Biblioteka i narzędzia do analizy, kodowania i obsługi dokumentów WBXML
 Name:		libwbxml2
 Version:	0.9.2
 Release:	0.1
