@@ -68,6 +68,7 @@ rm -rf $RPM_BUILD_ROOT
 %attr(755,root,root) %{_bindir}/wbxml2xml
 %attr(755,root,root) %{_bindir}/xml2wbxml
 %attr(755,root,root) %{_libdir}/libwbxml2.so.*.*.*
+%attr(755,root,root) %ghost %{_libdir}/libwbxml2.so.0
 
 %files devel
 %defattr(644,root,root,755)
